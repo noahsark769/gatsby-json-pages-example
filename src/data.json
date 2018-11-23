@@ -1,0 +1,12 @@
+{
+    "pages": [
+        {
+            "title": "Title 1",
+            "greeting": "Hello World"
+        },
+        {
+            "title": "Title 2",
+            "category": "Cats"
+        }
+    ]
+}
