@@ -2,11 +2,13 @@
     "pages": [
         {
             "title": "Title 1",
+            "pagePath": "/page-1",
             "greeting": "Hello World"
         },
         {
             "title": "Title 2",
-            "category": "Cats"
+            "pagePath": "/page-2",
+            "greeting": "Hola, mundo"
         }
     ]
 }
